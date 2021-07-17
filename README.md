@@ -8,4 +8,4 @@ revealed impressive results on mesh segmentations. We then focused
 on preparing our database and adapt it to the task.
 the code prensents an update of 3D mesh visualisation by using Polyscope 
 
-<img src="imgs/Capture.PNG" width="100 px"/> 
+<img src="imgs/Capture.PNG" width="250 px"/> 
