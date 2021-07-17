@@ -9,3 +9,5 @@ on preparing our database and adapt it to the task.
 the code prensents an update of 3D mesh visualisation in MeshCNN by using Polyscope.
 
 <img src="imgs/Capture.PNG" width="250 px"/> 
+you can also get pre-trained weights using bash in dental_seg folder
+
