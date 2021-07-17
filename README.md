@@ -10,4 +10,5 @@ the code prensents an update of 3D mesh visualisation in MeshCNN by using Polysc
 
 <img src="imgs/Capture.PNG" width="250 px"/> 
 you can also get pre-trained weights using bash in dental_seg folder
+Check out the [MeshCNN wiki](https://github.com/ranahanocka/MeshCNN/wiki) for more details abou the network . Specifically, see info on [segmentation](https://github.com/ranahanocka/MeshCNN/wiki/Segmentation) and [data processing](https://github.com/ranahanocka/MeshCNN/wiki/Data-Processing).
 
