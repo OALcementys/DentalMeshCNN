@@ -7,4 +7,5 @@ a neural network specially designed for 3D triangular meshes which
 revealed impressive results on mesh segmentations. We then focused
 on preparing our database and adapt it to the task.
 the code prensents an update of 3D mesh visualisation by using Polyscope 
-<img src="imgs/Capture.png" width="450px"/>
+
+<img src="/docs/imgs/T252.png" width="450px"/> 
