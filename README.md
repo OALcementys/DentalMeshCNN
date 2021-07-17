@@ -6,6 +6,6 @@ We decided to work with MeshCNN,by Rana Hanocka
 a neural network specially designed for 3D triangular meshes which
 revealed impressive results on mesh segmentations. We then focused
 on preparing our database and adapt it to the task.
-the code prensents an update of 3D mesh visualisation by using Polyscope 
+the code prensents an update of 3D mesh visualisation in MeshCNN by using Polyscope.
 
 <img src="imgs/Capture.PNG" width="250 px"/> 
